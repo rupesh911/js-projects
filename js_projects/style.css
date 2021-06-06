@@ -1,0 +1,9 @@
+body{
+    background-color: bisque;
+  background-position: center;
+  margin-top: 40px;
+}
+.output{
+   padding: 10px 0px 10px 0px;
+    text-align: center;
+}
